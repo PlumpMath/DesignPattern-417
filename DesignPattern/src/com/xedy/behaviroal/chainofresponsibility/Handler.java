@@ -8,5 +8,5 @@ package com.xedy.behaviroal.chainofresponsibility;
  *
  */
 public interface Handler {
-	public String handleRequest();
+	public String handleRequest(String message);
 }
