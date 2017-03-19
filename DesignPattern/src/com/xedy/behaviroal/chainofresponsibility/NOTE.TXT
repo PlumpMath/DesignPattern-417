@@ -2,3 +2,5 @@
 
 通过给多个对象提供处理请求的机会，避免使请求的发送者耦合至接收者。
 将接收者形成处理链条，并将请求数据沿链条传递，直到有可以处理该请求的接收者。
+
+Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
