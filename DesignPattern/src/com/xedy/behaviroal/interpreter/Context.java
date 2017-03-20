@@ -8,6 +8,10 @@ package com.xedy.behaviroal.interpreter;
  *
  */
 public class Context {
+	/**
+	 * 此预研操作符
+	 *
+	 */
 	public enum OPERATORS{
 		_PUT_,_RMV_,_CACHE_,_SAVE_
 	}
