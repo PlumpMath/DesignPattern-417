@@ -1,0 +1,5 @@
+解释器模式
+
+给定一种语言，为这个语言的语法定义一个描述和一个解释器，这个解释器使用这个描述解释这种语言中的语句。
+
+Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
